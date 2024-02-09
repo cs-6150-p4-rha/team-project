@@ -4,10 +4,23 @@ title: Team
 permalink: /team/
 ---
 
-# Josh Kuun
+# Robin Hood Army (RHA) Web Development
 
-# Kausar Khizra
+A zero fund volunteer organization that collects extra food from restaurants and communities to serve the ones in need.
 
-# Tylar Farmer
+# Goals
+- Improve the Search Engine Optimization (SEO)
+- Improve overall usability of the website, add features
 
-# Vidya Ananda
+
+# Team Spring 2024
+## Josh Kuun
+
+## Kausar Khizra
+
+## Tylar Farmer
+
+## Vidya Ananda
+
+# Lighthouse Score of Homepage
+![Alt text](lighthouse-report.png)

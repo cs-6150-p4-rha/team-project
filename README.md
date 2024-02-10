@@ -2,7 +2,8 @@
 
 ## Overview
 
-This repository contains the source code for the CS 6150 Project Team website. It uses Jekyll to transform plain text into a static website.
+This repository contains the source code for the CS 6150 Project Team website. It uses Jekyll to transform plain text into a static website. 
+https://cs-6150-p4-rha.github.io/team-project/
 
 ## Getting Started
 

@@ -7,8 +7,10 @@ title: Robin Hood Army
 ---
 
 ## Project Description
-
+The partner aims to optimize their website for search engines. Specifically, they seek to prioritize relevant local chapters, ensuring they appear prominently at the top of search results when users conduct searches on different search engines.
 ## Project Goals
+- Improve the Search Engine Optimization (SEO)
+- Improve overall usability of the website, add features
 
 ## Team
 
@@ -20,7 +22,13 @@ Fullstack Developer
 
 ### Tylar Farmer
 
+Fullstack Developer
+
 ### Vidya Ananda
 
 ## Lighthouse
-
+- Performance: 97
+- Accessibility: 95
+- Best Practices: 96
+- SEO: 100
+- PWA: N/A

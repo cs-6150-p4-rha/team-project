@@ -36,4 +36,4 @@ Team Lead, Front-End Developer, UX/UI Designer
 - Best Practices: 100
 - SEO: 100
 
-[Lighthouse Report](./team-webpage-lighthouse-result.html)
+[Lighthouse Report](./team-webpage-lighthouse-results.html)

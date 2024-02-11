@@ -32,3 +32,5 @@ Fullstack Developer
 - Best Practices: 96
 - SEO: 100
 - PWA: N/A
+
+[Lighthouse report](./lighthouse-result.html)

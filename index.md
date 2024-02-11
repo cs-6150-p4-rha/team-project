@@ -12,25 +12,28 @@ The partner aims to optimize their website for search engines. Specifically, the
 - Improve the Search Engine Optimization (SEO)
 - Improve overall usability of the website, add features
 
-## Team
+## Team Members & Planned Roles
 
 ### Josh Kuun
 
-Fullstack Developer
+Full-Stack Developer
 
 ### Kausar Khizra
 
+Full-Stack Developer
+
 ### Tylar Farmer
 
-Fullstack Developer
+Full-Stack Developer
 
 ### Vidya Ananda
 
-## Lighthouse
-- Performance: 97
-- Accessibility: 95
-- Best Practices: 96
-- SEO: 100
-- PWA: N/A
+Team Lead, Front-End Developer, UX/UI Designer
 
-[Lighthouse report](./lighthouse-result.html)
+## Lighthouse Scores
+- Performance: 100
+- Accessibility: 94
+- Best Practices: 100
+- SEO: 100
+
+[Lighthouse Report](./team-webpage-lighthouse-result.html)

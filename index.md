@@ -42,7 +42,5 @@ Team Lead, Front-End Developer, UX/UI Designer
 - Best Practices: 100
 - SEO: 100
 
-[Lighthouse Report](./team-webpage-lighthouse-results.html)
-
 ## P4 Mini Presentation
 <iframe style="width: 100%;" width="560" height="315" src="https://www.youtube.com/embed/hV1ApiiRsNw?si=sdmJXRoDfNMGen9b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

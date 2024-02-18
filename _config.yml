@@ -29,6 +29,21 @@ url: "https://cs-6150-p4-rha.github.io/team-project/" # the base hostname & prot
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-pwa-workbox
+
+pwa:
+  sw_src_filepath: sw.js # Optional
+  sw_dest_filename: sw.js # Optional
+  dest_js_directory: assets/js # Required
+  precache_recent_posts_num: 5 # Optional
+  precache_glob_directory: / # Optional
+  precache_glob_patterns: # Optional
+    - "/**/*.{js,json,css}"
+    - "/**/*.{ico,jpg,jpeg,png,svg}"
+    - "/**/*.html"
+  precache_glob_ignores: # Optional
+    - "sw-register.js"
+    - "fonts/**/*"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

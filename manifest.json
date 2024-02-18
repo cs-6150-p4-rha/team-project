@@ -2,7 +2,7 @@
   "name": "CS 6150 Team Project",
   "short_name": "CS 6150",
   "theme_color": "#000000",
-	"background_color": "#000000",
+	"background_color": "#fdfdfd",
 	"display": "standalone",
 	"scope": "/",
 	"start_url": "/",

@@ -51,8 +51,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 8
-        run: npm i -g workbox-cli
-        run: workbox generateSW workbox-config.js
+        run: npm i -g workbox-cli && workbox generateSW workbox-config.js
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3

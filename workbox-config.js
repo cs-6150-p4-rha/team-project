@@ -1,9 +1,9 @@
 module.exports = {
-	globDirectory: '_includes/',
+	globDirectory: '_site/',
 	globPatterns: [
 		'**/*.html'
 	],
-	swDest: '_includes/sw.js',
+	swDest: '_site/sw.js',
 	ignoreURLParametersMatching: [
 		/^utm_/,
 		/^fbclid$/

@@ -50,7 +50,7 @@ jobs:
       - name: Install workbox
         uses: actions/setup-node@v4
         with:
-          node-version: 8
+          node-version: 18
       - name: Generate service worker
         run: npm i -g workbox-cli && workbox generateSW workbox-config.js
       - name: Upload artifact

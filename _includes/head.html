@@ -8,6 +8,12 @@
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
       {%- include google-analytics.html -%}
     {%- endif -%}
-    <link rel="manifest" href="{{ "/manifest.json" | prepend: site.baseurl | prepend: site.url }}" />
-    <script type="text/javascript" src="{{ "assets/js/main.js" | prepend: site.baseurl | prepend: site.url }}"></script>
+    <link rel="manifest" href="/assets/manifest.json">
+    <script>
+      if('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js')
+        })
+      }
+    </script>
   </head>

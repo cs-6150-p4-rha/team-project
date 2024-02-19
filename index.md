@@ -38,7 +38,7 @@ Team Lead, Front-End Developer, UX/UI Designer
 
 ## Lighthouse Scores
 - Performance: 100
-- Accessibility: 94
+- Accessibility: 100
 - Best Practices: 100
 - SEO: 100
 

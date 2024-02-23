@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# Any Questions?
-
 ## What is the Robin Hood Army?
 
 The Robin Hood Army is a zero-funds volunteer organization that works to get surplus food from restaurants and communities to serve the less fortunate.

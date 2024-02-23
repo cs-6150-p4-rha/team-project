@@ -18,7 +18,7 @@ The challenge is not a lack of food - it is making food consistently available t
 
 The Robin Hood Army is a volunteer based, zero-funds organization that works to get surplus food from restaurants and the community to serve less fortunate people. Our local chapters are run by friends and colleagues, who hope to create a difference in their own unique way. For example, restaurants in the neighbourhood Green Park, will contribute to the homeless of the locality, through volunteers who live in Green Park. Our “Robins” are largely students and young working professionals – everyone does this in their free time. The lesser fortunate sections of society we serve include homeless families, orphanages, patients from public hospitals, and old age homes.
 
-### Our vision
+### Our Vision
 
 Simple really, beat global hunger and bring out the best of humanity using food as a medium.The idea is to create self-sustained chapters across the world who will look after their local community. And in the process, inspire people around us to give back to those who need it most.
 
@@ -78,4 +78,4 @@ With over 28 million people served — the army streamlines its processes to set
 
 Citizens First → Mission Next → Robins Last
 
-<!-- ![Our Culture](/assets/images/home/home-page_our-culture.png) -->
+<img src="assets/images/home/home-page_our-culture.png" alt="Our Culture" data-echo="assets/images/home/home-page_our-culture.jpg" loading="lazy">

@@ -6,7 +6,7 @@ layout: home
 title: Home
 ---
 
-<img src="team-project/assets/images/home/slide3.png" alt="Hunger is more than missing a meal" data-echo="team-project/assets/images/home/slide3.jpg" loading="lazy">
+<img src="assets/images/home/slide3.png" alt="Hunger is more than missing a meal" data-echo="assets/images/home/slide3.jpg" loading="lazy">
 
 ## The Problem
 

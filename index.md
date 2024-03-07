@@ -1,81 +1,46 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
-title: Home
+title: Robin Hood Army
 ---
 
-<img src="assets/images/home/slide3.png" alt="Hunger is more than missing a meal" data-echo="assets/images/home/slide3.jpg" loading="lazy">
+## Project Description
 
-## The Problem
+Robin Hood Army is an organization that distributes surplus food to those less fortunate. It has local communities called 'chapters' in countless cities in the world wherein volunteers work to serve food to homeless families, orphanages etc. Robin Hood Army aims to optimize their website for search engines. Specifically, they seek to prioritize relevant local chapters, ensuring their website appears prominently at the top of search results when users conduct searches on Google looking to start a new one in their locality.
 
-The challenge is not a lack of food - it is making food consistently available to everyone who needs it.
+## Project Goal
 
-## The Idea
+The biggest goal of this project is to improve the search engine optimization (SEO) of the Robin Hood Army website, such that when users and members of the organization want to start a new chapter of the Robin Hood Army in another region, city, or country, they are able to do so by searching the relevant terms and coming across the Robin Hood Army website as one of the top ranking entries in their search.
 
-### Who Are We?
+We aim to ensure that the Robin Hood Army website shows up in the top rankings of Google when appropriate terms are searched, therefore helping the organization to broaden their reach and establish themselves in even more countries. This goal can be broken down as follows:
+- Analyze the RHA website to gain an understanding of what SEO improvements could be made and develop a strategy for how they can be added to the pre-existing website
+- Implement the changes onto a copy of the codebase, deploying locally to test the level of improvement made to SEO
+- Evaluate the impact of the changes made by conducting studies and present a report to the partner detailing any updates, progress, analysis on a bi/tri-weekly basis, before migrating the code to the original website’s codebase near the end of the semester
+  
+Once this goal is fulfilled, we also hope to implement further improvements to the website regarding performance, accessibility and overall usability.
 
-The Robin Hood Army is a volunteer based, zero-funds organization that works to get surplus food from restaurants and the community to serve less fortunate people. Our local chapters are run by friends and colleagues, who hope to create a difference in their own unique way. For example, restaurants in the neighbourhood Green Park, will contribute to the homeless of the locality, through volunteers who live in Green Park. Our “Robins” are largely students and young working professionals – everyone does this in their free time. The lesser fortunate sections of society we serve include homeless families, orphanages, patients from public hospitals, and old age homes.
+## Team Members & Planned Roles
 
-### Our Vision
+### Joshua Kuun
 
-Simple really, beat global hunger and bring out the best of humanity using food as a medium.The idea is to create self-sustained chapters across the world who will look after their local community. And in the process, inspire people around us to give back to those who need it most.
+Full-Stack Developer
 
-## Our Journey
+### Kausar Khizra
 
-On the army’s first night of distribution, we realized that helping the less fortunate may feel good personally, but feeding 50 odd people at night, once a week would not create any real difference in a country where millions are starving.
+Full-Stack Developer
 
-Hunger is an acute problem. We needed to reach out to more people, more restaurants, and more cities - our deadline being yesterday.
+### Tylar Farmer
 
-### 2014-15
+Full-Stack Developer
 
-- 2,314 Robins
-- 8 Cities
+### Vidya Ananda
 
-Modeled on Portugal's Re-Food Program, the Robin Hood project starts in Delhi, India in August’14. Through social media, some passionate new recruits, and a healthy seasoning of luck, the RHA expands across Indian cities and in a landmark move into neighbouring Pakistan.
+Team Lead, Front-End Developer, UX/UI Designer
 
-### 2016
+## Lighthouse Scores
+- Performance: 100
+- Accessibility: 100
+- Best Practices: 100
+- SEO: 100
 
-- 6,375 Robins
-- 32 Cities
-
-The RHA expands its base across international borders, and sets up the Robin Hood Academy — a feeder program where Robins teach and enable hundreds of street children to pursue primary education through a structured curriculum.
-
-### 2017
-
-- 10,350 Robins
-- 48 Cities
-
-The RHA undertakes its most ambitious project — #Mission1Million and successfully mobilizes media houses, corporates, and artists to serve 1.32 million less fortunate citizens, without raising any funds, on Independence Day.
-
-### 2018
-
-- 24,677 Robins
-- 103 Cities
-
-The RHA embraces tech and data to scale its presence across urban and rural areas. RHA gets featured as a Harvard case study; the zero funds systems which motivates civic society to serve the masses, is taught as a new model for the business, academic and philanthropic world.
-
-### 2019
-
-- 28,164,165 served
-- 159 cities
-
-With over 28 million people served — the army streamlines its processes to set up hyperlocal community chapters across the world. Our focus is to become a global engine which brings out the best of humanity using food as a medium.
-
-## How You Can Help
-
-- Volunteer Time
-    - All we need is 3 hours/week at least twice a month to make a real impact. If we have a team in your city looking to grow, a Robin will reach out to you.
-
-- Contribute Food
-    - If you manage a restaurant or generally want to contribute regular meals from your family or workplace, let’s connect.
-
-- Teach
-    - Creating access to education is the purest form of nation building – do you want to teach our kids in the Robin Hood Academy?
-
-## Our Culture
-
-Citizens First → Mission Next → Robins Last
-
-<img src="assets/images/home/home-page_our-culture.png" alt="Our Culture" data-echo="assets/images/home/home-page_our-culture.jpg" loading="lazy">
+## P4 Mini Presentation
+<iframe style="width: 100%;" width="560" height="315" src="https://www.youtube-nocookie.com/embed/hV1ApiiRsNw?si=sdmJXRoDfNMGen9b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"></iframe>

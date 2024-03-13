@@ -5,8 +5,8 @@ title: Robin Hood Army
 
 ## Peer Evaluations
 
-- [**Team Project Link**](http://23.96.96.108/)
-- [**Survey Link**](https://forms.office.com/r/vJvYG2d0MY)
+### [Team Project Link](http://23.96.96.108/)
+### [Survey Link](https://forms.office.com/r/vJvYG2d0MY)
 
 ## Project Description
 
@@ -23,7 +23,7 @@ We aim to ensure that the Robin Hood Army website shows up in the top rankings o
   
 Once this goal is fulfilled, we also hope to implement further improvements to the website regarding performance, accessibility and overall usability.
 
-## Team Members & Planned Roles
+## Team Members, Planned Roles & Contributions
 
 ### Joshua Kuun
 

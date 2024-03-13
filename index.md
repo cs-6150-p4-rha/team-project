@@ -25,21 +25,55 @@ Once this goal is fulfilled, we also hope to implement further improvements to t
 
 ## Team Members, Planned Roles & Contributions
 
+####  (as of 2024-03-13)
+
 ### Joshua Kuun
 
 Full-Stack Developer
+
+- Created GitHub organization and repository for the team webpage and added template pages
+- Created static team webpage using Jekyll and added GitHub sction to automatically deploy changes on a merge to main
+- Outlined an initial plan to engage with the partner organization
+- Researched SEO tools that could be used to check level of SEO improvement
+- Ensured perfect Lighthouse scores for team webpage
+- Added Dockerfile and httpd.conf file to start the Apache web server for the RHA website in a container
 
 ### Kausar Khizra
 
 Full-Stack Developer
 
+- Wrote about partner needs
+- Raised initial/draft PR with goals, partner description and lighthouse score
+- Researched about different SEO techniques and tools
+- Created block diagrams to explain architecture details
+- Improved SEO of the RHA website index.html by adding `alt` attribute to all image tags (`<img>`)
+- Launched a VM in Azure for our modified version of the RHA website
+
 ### Tylar Farmer
 
 Full-Stack Developer
 
+- Researched methods of search engine optimization
+- Wrote down project deliverables
+- Resolved merge conflict on team webpage
+- Worked on project timeline and created milepost diagram
+- Assembled the voice clips and slides to create the video to be presented to the partner organization
+- Converted images on RHA website homepage from .jpg and .png to next-gen .webp format to decrease image load times
+
 ### Vidya Ananda
 
 Team Lead, Front-End Developer, UX/UI Designer
+
+- Organized and scheduled all meetings, creating a plan for each one with objectives and questions prepared beforehand
+- Maintained regular communication with mentor and partner, updating team members with relevant information, checking in to ensure steady progress and sharing ideas regularly to prompt further discussion
+- Researched SEO techniques, strategizing potential improvements to website
+- Asked the partner organization 6-7 questions about project goals, deliverables, target audience etc. before development started
+- Wrote down project goals, modified the plan to engage with the partner
+- Added to project description, wrote project goal and uploaded Lighthouse scores on the team webpage
+- Designed and formatted presentation slides, writing down partner organization background, goals, and worked on project timeline
+- Optimized the RHA website index.html keywords according to target audience outlined by partner organization in order to improve SEO
+- Devised two tasks, appropriate questions for each task and the survey for the initial project evaluation and peer evaluation
+- Analyzed mentor feedback to see whether the changes implemented had a positive impact on the website’s SEO
 
 ## Lighthouse Scores
 - Performance: 100

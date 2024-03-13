@@ -3,6 +3,11 @@ layout: home
 title: Robin Hood Army
 ---
 
+## Peer Evaluations
+
+- [**Team Project Link**](http://23.96.96.108/)
+- [**Survey Link**](https://forms.office.com/r/vJvYG2d0MY)
+
 ## Project Description
 
 Robin Hood Army is an organization that distributes surplus food to those less fortunate. It has local communities called 'chapters' in countless cities in the world wherein volunteers work to serve food to homeless families, orphanages etc. Robin Hood Army aims to optimize their website for search engines. Specifically, they seek to prioritize relevant local chapters, ensuring their website appears prominently at the top of search results when users conduct searches on Google looking to start a new one in their locality.

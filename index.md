@@ -23,7 +23,7 @@ We aim to ensure that the Robin Hood Army website shows up in the top rankings o
   
 Once this goal is fulfilled, we also hope to implement further improvements to the website regarding performance, accessibility and overall usability.
 
-## Team Members, Planned Roles & Contributions
+## Team Members, Planned Roles & Contributions (as of 2024-03-13)
 
 ### Joshua Kuun
 
@@ -41,7 +41,7 @@ Raised initial/draft PR with goals, partner description and lighthouse score. Wr
 
 Full-Stack Developer
 
-Researched methods of search engine optimization. Wrote down project deliverables. Resolved merge conflict on team webpage. Worked on project timeline and created milepost diagram. Assembled the voice clips and slides to create the video to be presented to the partner organization. Converted images on RHA website homepage from .jpg and .png to next-gen .webp format to decrease image load times.
+Researched methods of search engine optimization. Wrote down project deliverables. Resolved merge conflict on team webpage. Worked on project timeline and created milepost diagram. Assembled voice clips and slides to create video presented to partner organization. Converted images on RHA website homepage from .jpg and .png to next-gen .webp format to decrease image load times.
 
 ### Vidya Ananda
 

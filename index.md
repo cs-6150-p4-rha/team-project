@@ -54,4 +54,4 @@ Organized, scheduled and planned all meetings. Maintained regular communication 
 <iframe style="width: 100%;" width="560" height="315" src="https://www.youtube-nocookie.com/embed/hV1ApiiRsNw?si=sdmJXRoDfNMGen9b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"></iframe>
 
 ## P6 Demo Presentation
-<iframe width="560" height="315" src="https://www.youtube.com/embed/StnHR6DAGUA?si=y0LuZddU2nAHkfyZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="width: 100%;" width="560" height="315" src="https://www.youtube.com/embed/StnHR6DAGUA?si=y0LuZddU2nAHkfyZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
